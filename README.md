@@ -1,3 +1,7 @@
+# Health-App
+
+The Health App is a comprehensive digital tool designed to empower users in effectively managing their health measures and wellness data, providing personalized insights and warnings for informed decision-making.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
